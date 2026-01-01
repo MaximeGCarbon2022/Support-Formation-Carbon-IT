@@ -1,0 +1,170 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelle est la capitale de la France ?",
+      "choices": ["Paris", "Lyon", "Marseille", "Bordeaux"],
+      "correctAnswer": "Paris",
+      "country": "France",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Quelle est la capitale de l'Allemagne ?",
+      "choices": ["Munich", "Berlin", "Hambourg", "Francfort"],
+      "correctAnswer": "Berlin",
+      "country": "Allemagne",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "Quelle est la capitale de l'Espagne ?",
+      "choices": ["Barcelone", "Madrid", "Séville", "Valence"],
+      "correctAnswer": "Madrid",
+      "country": "Espagne",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Quelle est la capitale de l'Italie ?",
+      "choices": ["Milan", "Naples", "Rome", "Florence"],
+      "correctAnswer": "Rome",
+      "country": "Italie",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "Quelle est la capitale du Portugal ?",
+      "choices": ["Porto", "Lisbonne", "Braga", "Faro"],
+      "correctAnswer": "Lisbonne",
+      "country": "Portugal",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Quelle est la capitale de la Suisse ?",
+      "choices": ["Zurich", "Genève", "Berne", "Lausanne"],
+      "correctAnswer": "Berne",
+      "country": "Suisse",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Quelle est la capitale de la Belgique ?",
+      "choices": ["Anvers", "Bruxelles", "Bruges", "Gand"],
+      "correctAnswer": "Bruxelles",
+      "country": "Belgique",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "Quelle est la capitale des Pays-Bas ?",
+      "choices": ["Rotterdam", "La Haye", "Amsterdam", "Utrecht"],
+      "correctAnswer": "Amsterdam",
+      "country": "Pays-Bas",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "Quelle est la capitale de l'Autriche ?",
+      "choices": ["Salzbourg", "Vienne", "Graz", "Innsbruck"],
+      "correctAnswer": "Vienne",
+      "country": "Autriche",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "Quelle est la capitale de la Suède ?",
+      "choices": ["Göteborg", "Malmö", "Stockholm", "Uppsala"],
+      "correctAnswer": "Stockholm",
+      "country": "Suède",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Quelle est la capitale de la Norvège ?",
+      "choices": ["Bergen", "Oslo", "Trondheim", "Stavanger"],
+      "correctAnswer": "Oslo",
+      "country": "Norvège",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Quelle est la capitale de la Finlande ?",
+      "choices": ["Turku", "Helsinki", "Tampere", "Espoo"],
+      "correctAnswer": "Helsinki",
+      "country": "Finlande",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "question": "Quelle est la capitale du Danemark ?",
+      "choices": ["Aarhus", "Copenhague", "Odense", "Aalborg"],
+      "correctAnswer": "Copenhague",
+      "country": "Danemark",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "Quelle est la capitale de la Pologne ?",
+      "choices": ["Cracovie", "Varsovie", "Wrocław", "Poznań"],
+      "correctAnswer": "Varsovie",
+      "country": "Pologne",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "Quelle est la capitale de la République Tchèque ?",
+      "choices": ["Brno", "Prague", "Ostrava", "Plzeň"],
+      "correctAnswer": "Prague",
+      "country": "République Tchèque",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "Quelle est la capitale de la Hongrie ?",
+      "choices": ["Debrecen", "Szeged", "Budapest", "Pécs"],
+      "correctAnswer": "Budapest",
+      "country": "Hongrie",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "Quelle est la capitale de la Roumanie ?",
+      "choices": ["Cluj-Napoca", "Iași", "Bucarest", "Timișoara"],
+      "correctAnswer": "Bucarest",
+      "country": "Roumanie",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "Quelle est la capitale de la Grèce ?",
+      "choices": ["Thessalonique", "Athènes", "Patras", "Héraklion"],
+      "correctAnswer": "Athènes",
+      "country": "Grèce",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "Quelle est la capitale de l'Irlande ?",
+      "choices": ["Cork", "Dublin", "Galway", "Limerick"],
+      "correctAnswer": "Dublin",
+      "country": "Irlande",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "Quelle est la capitale de la Slovaquie ?",
+      "choices": ["Košice", "Bratislava", "Prešov", "Žilina"],
+      "correctAnswer": "Bratislava",
+      "country": "Slovaquie",
+      "difficulty": "hard"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "totalQuestions": 20,
+    "description": "Questions sur les capitales des pays européens",
+    "lastUpdated": "2025-01-11"
+  }
+}
